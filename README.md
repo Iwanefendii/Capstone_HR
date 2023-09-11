@@ -5,7 +5,7 @@ A company which is active in Big Data and Data Science wants to hire data scient
 
 This dataset designed to understand the factors that lead a person to leave current job for HR researches too. By model(s) that uses the current credentials,demographics,experience data you will predict the probability of a candidate to look for a new job or will work for the company, as well as interpreting affected factors on employee decision.
 
-Dataset ini berisi informasi terkait demografis, edukasi dan pengalaman kerja kandidat yang diisi ketika peserta mendaftar untuk ikut pelatihan. Ada 14 kolom di dalam dataset hr_analytics, yaitu:  
+There are 14 columns in the hr_analytics dataset, is: 
 
 * enrollee_id : ID unik untuk tiap kandidat
 * city: kode untuk kota
